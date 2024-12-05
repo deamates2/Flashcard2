@@ -17,12 +17,6 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
     'Educação fisica',
     'Quantos ossos tem no corpo humano?',
     '206 ossos'
